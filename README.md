@@ -1,1 +1,1 @@
-I make CSGO maps and Unity games
+I code, make games in Unity, and CSGO/CS2 maps.
